@@ -1,9 +1,11 @@
 # In the name of God
 
 ## About Me
-Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational School, Mashhad.
+Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational High School, Mashhad.
 
-I'm mostly interested in back-end development (C# & PHP) and also sometimes create C# programs as a hobby.
+I mostly specialize in Back-end development (notably C#, PHP, Python, and few other languages). I also sometimes develop C# applications and websites as a hobby.
+
+I'm always open to new ideas and eager to discover & find more about the latest technologies. Feel free to contact me anytime and I'll try my best to help you out!
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-shahidi-fard-34bb182b2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Wirmaple73) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18954775) 
