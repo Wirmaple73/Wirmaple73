@@ -1,16 +1,16 @@
 # In the name of God
 
-## About Me
+## About me
 Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational High School, Mashhad.
 
 I mostly specialize in Back-end development (notably C#, PHP, Python, and few other languages). Also, I sometimes create and develop C# applications and websites as a hobby.
 
 I'm always open to new ideas and eager to discover & find more about the latest technologies. Feel free to contact me anytime and I'll try my best to help you out!
 
-## Contact Me
+## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-shahidi-fard-34bb182b2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Wirmaple73) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18954775) 
 
-## Tech Stack
+## Tech stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
@@ -21,15 +21,15 @@ I'm always open to new ideas and eager to discover & find more about the latest 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 
-## GitHub Statistics
+## GitHub statistics
 ![](https://github-readme-stats.vercel.app/api?username=Wirmaple73&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wirmaple73&theme=default&hide_border=false)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wirmaple73&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
+## GitHub trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wirmaple73&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### Top Contributed Repositories
+## Top contributed repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Wirmaple73&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
