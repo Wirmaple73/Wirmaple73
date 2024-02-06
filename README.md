@@ -34,11 +34,11 @@ I'm always open to new ideas and eager to discover & find more about the latest 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wirmaple73&theme=default&hide_border=false)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wirmaple73&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub trophies
-![](https://github-profile-trophy.vercel.app/?username=Wirmaple73&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
 ## Top contributed repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Wirmaple73&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+## GitHub trophies
+![](https://github-profile-trophy.vercel.app/?username=Wirmaple73&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 Created with:
