@@ -7,7 +7,7 @@ I mostly specialize in Back-end development (notably C#, PHP, Python, and few ot
 
 I'm always open to new ideas and eager to discover & find more about the latest technologies. Feel free to contact me anytime and I'll try my best to help you out!
 
-[![](https://visitcount.itsvg.in/api?id=Wirmaple73&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Wirmaple73&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## Contact me
 <p align="left">
