@@ -1,7 +1,7 @@
 # In the name of God
 
 ## About me
-Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational School, Mashhad.
+Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational School, Mashhad;
 
 An experienced and competent Back-end programmer with experience and proficiency in developing and implementing Windows applications and websites.
 Dominant and skilled in Object-oriented Programming (OOP) concepts and programming languages such as C# (WPF & Windows Forms), JavaScript, PHP and HTML/CSS.
