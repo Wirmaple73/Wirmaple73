@@ -1,11 +1,14 @@
 # In the name of God
 
 ## About me
-Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational High School, Mashhad.
+Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational School, Mashhad.
 
-I mostly specialize in Back-end development (notably C#, PHP, Python, and few other languages). Also, I sometimes create and develop C# applications and websites as a hobby.
+An experienced and competent Back-end programmer with experience and proficiency in developing and implementing Windows applications and websites.
+Dominant and skilled in Object-oriented Programming (OOP) concepts and programming languages such as C# (WPF & Windows Forms), JavaScript, PHP and HTML/CSS.
 
-I'm always open to new ideas and eager to discover & find more about the latest technologies. Feel free to contact me anytime and I'll try my best to help you out!
+Capable of building and implementing flexible & efficient programming solutions. Adept at analyzing and writing Regular expressions professionally. Able to work in a team and solve difficult problems creatively.
+
+I am interested in the latest Back-end-related technologies and eager to pursue and seek the newest optimal solutions for optimizing database and web-based systems. Feel free to contact me anytime and I'll try my best to help you out!
 
 [![](https://visitcount.itsvg.in/api?id=Wirmaple73&icon=0&color=12)](https://visitcount.itsvg.in)
 
