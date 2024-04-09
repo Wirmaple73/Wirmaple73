@@ -3,7 +3,7 @@
 ## About me
 Greetings! I'm Alireza Shahidi Fard, currently studying Computer Science as a student at Shahid Beheshti Vocational School, Mashhad.
 
-I am interested in the latest back-end-related technologies. Feel free to contact me anytime and I'll try my best to help you out!
+I tend to develop websites and desktop applications as a hobby. Feel free to contact me anytime and I'll try my best to help you out!
 
 [![](https://visitcount.itsvg.in/api?id=Wirmaple73&icon=0&color=12)](https://visitcount.itsvg.in)
 
