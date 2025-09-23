@@ -1,4 +1,4 @@
-# In the name of God
+# In the Name of God
 
 ## About Me
 Greetings! I'm Alireza Shahidifard, a Computer Science student from Mashhad.
