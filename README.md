@@ -1,13 +1,17 @@
-# In the Name of God
+<p align="center">
+	<h3 align="center">In the Name of God</h3>
+</p>
+
+<br>
 
 ## About Me
-Greetings! I'm Alireza Shahidifard, a Computer Science student from Mashhad.
+Greetings! I'm Alireza Shahidifard, a wannabe programmer and software nerd from Mashhad.
 
-I'm always open to new ideas and eager to learn and acquire more skills in back-end technologies. I also prefer to develop websites and desktop applications as a hobby. Feel free to contact me any time and I'll try my best to help you out!
+I'm (almost) always open to new ideas and eager to learn and acquire more skills in back-end technologies. I prefer to develop websites and desktop applications as a hobby. Feel free to reach out any time and I'll do my best to lend a hand!
 
 [![](https://visitcount.itsvg.in/api?id=Wirmaple73&icon=0&color=12)](https://visitcount.itsvg.in)
 
-## Contact Me
+## Get in Touch
 <p align="left">
 	<a href="https://linkedin.com/in/alireza-shahidi-fard-34bb182b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-shahidi-fard-34bb182b2" height="30" width="40" /></a>
 	<a href="https://stackoverflow.com/users/18954775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18954775" height="30" width="40" /></a>
