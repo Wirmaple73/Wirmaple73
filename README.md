@@ -7,7 +7,7 @@
 ## About Me
 Greetings! I'm Alireza Shahidifard, a wannabe programmer and software nerd from Mashhad.
 
-I'm (almost) always open to new ideas and eager to learn and acquire more skills in back-end technologies. I prefer to develop websites and desktop applications as a hobby. Feel free to reach out any time and I'll do my best to lend a hand!
+I'm usually open to new ideas and eager to learn and acquire more skills in back-end technologies. I prefer to develop websites and desktop applications as a hobby. Feel free to reach out any time and I'll do my best to lend a hand!
 
 [![](https://visitcount.itsvg.in/api?id=Wirmaple73&icon=0&color=12)](https://visitcount.itsvg.in)
 
