@@ -13,7 +13,7 @@ I'm usually open to new ideas and eager to learn and acquire more skills in back
 
 ## Get in Touch
 <p align="left">
-	<a href="https://linkedin.com/in/alireza-shahidi-fard-34bb182b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-shahidi-fard-34bb182b2" height="30" width="40" /></a>
+	<!-- <a href="https://linkedin.com/in/alireza-shahidi-fard-34bb182b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-shahidi-fard-34bb182b2" height="30" width="40" /></a> -->
 	<a href="https://stackoverflow.com/users/18954775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18954775" height="30" width="40" /></a>
 </p>
 
